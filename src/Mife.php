@@ -15,7 +15,6 @@ class Mife
 {
     public function sayMife()
     {
-        echo "mife given";
-        die;
+        echo "mife given"; 
     }
 }
